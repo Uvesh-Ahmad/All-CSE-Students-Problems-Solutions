@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋" />
 </h1>
 
+![logo](https://github.com/Uvesh-Ahmad/All-CSE-Students-Problems-Solutions/blob/main/Github-UveshGif.gif)
+
 <h2> All-CSE-Students-Problems-Solutions</h2>
 <div align="right"> 
   <a href="mailto:siddiquiuvesh20@gmail.com">
